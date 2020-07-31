@@ -13,6 +13,7 @@ body {
 	width: 100%;
 	margin-top: 0px;
 	position: relative;
+	overflow: hidden;
 	text-overflow: clip;
 }
 .nav-link {
@@ -24,6 +25,7 @@ body {
 	margin-right: 10px;
 	padding: 5px;
 	color: #000033;
+	overflow: hidden;
 	text-overflow: clip;
 }
 .nav-link:hover {
