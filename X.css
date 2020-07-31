@@ -48,7 +48,7 @@ b {
 	overflow: hidden;
 }
 .title-header{
-	height: 30px !important;
+	height: 30px;
 	width: auto;
 	vertical-align: middle;
 	padding: 0px;
