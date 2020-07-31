@@ -13,6 +13,7 @@ body {
 	width: 100%;
 	margin-top: 0px;
 	position: relative;
+	overflow: auto;
 }
 .nav-link {
 	float: right;
