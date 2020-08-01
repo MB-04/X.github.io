@@ -1,4 +1,4 @@
-body {
+zbody {
 	background-color: white;
 	margin: 0; 
 }
@@ -182,10 +182,9 @@ input:onclick {
 }
 .dropbtn{
         background-color: black;
-        border: outset 0.3px antiquewhite;
+        border: solid 0.3px #000033;
         text-align: center;
         padding: 10px 10px;
-        font-family: "times new roman";
         display: block;
         width: 100%;
         font-size: 15px;
