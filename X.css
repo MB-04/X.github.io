@@ -181,15 +181,14 @@ input:onclick {
 	box-shadow: 1px 1px 15px 1px rgb(179, 178, 178);
 }
 .dropbtn{
-        background-color: black;
+        background-color: white;
         border: solid 0.3px #000033;
         text-align: center;
         padding: 10px 10px;
         display: block;
         width: 100%;
         font-size: 15px;
-        height: 27.5px;
-        color: dimgray;
+        color: #000033;
 }
 
 
